@@ -1,0 +1,35 @@
+{
+  "transactions": [
+    {
+      "hash": null,
+      "transactionType": "CALL",
+      "contractName": null,
+      "contractAddress": "0x2d3c2e32a2ab16884ab39572b257a822f26b55d1",
+      "function": "claimNFT()",
+      "arguments": [],
+      "transaction": {
+        "from": "0x9cc68505b2fa69a936e032b12c654e5ba8b52bce",
+        "to": "0x2d3c2e32a2ab16884ab39572b257a822f26b55d1",
+        "gas": "0x27961",
+        "value": "0x0",
+        "input": "0x672756ad",
+        "nonce": "0x67",
+        "chainId": "0xaa36a7"
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [],
+  "returns": {
+    "0": {
+      "internal_type": "contract NFT",
+      "value": "0x2D3C2E32A2AB16884AB39572B257A822F26B55D1"
+    }
+  },
+  "timestamp": 1718995844,
+  "chain": 11155111,
+  "commit": "d89386a"
+}
